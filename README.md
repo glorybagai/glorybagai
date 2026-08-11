@@ -1,34 +1,27 @@
 # Hi, I’m Glory 👋
 
-🎓 Mechatronics Engineering undergraduate | 🤖 Researcher in Intelligent Systems Under Resource Constrain 
+🎓 Mechatronics Engineering undergraduate | 🤖 Research in Intelligent Systems
 📍 Nigeria  
 
-I am an undergraduate researcher focused on **intelligent autonomous systems under resource constraints**. My work bridges **practical engineering** and **applied AI**, aiming to design systems that **adapt efficiently and robustly in complex, dynamic environments**.  
+I am a researcher focused on **intelligent autonomous systems under constraints, optimization and efficiency**. My work bridges **practical engineering** and **applied AI**, aiming to design systems that **adapt efficiently and robustly in complex, dynamic environments**.  
 
 ---
 
 ## 🔭 Current Focus
 - Design, control, and learning of autonomous systems  
-- Resource- and compute-efficient AI for robotics and embedded systems (TinyML, parameter-efficient fine-tuning, model compression)  
-- Sim-to-real system testing: from simulation to real hardware deployment  
-- Research skill development, academic writing, and reproducible experimentation  
-
+- Resource- and compute-efficient neural architectures (TinyML, parameter-efficient fine-tuning, model compression)  
 ---
 
 ## 🧠 Research & Technical Interests
 My research focuses on **behavioral adaptation and efficient computation under resource constraints**, aiming to maintain robustness, efficiency, and task specialization in low-power, low-memory, or latency-critical environments. Key areas include:  
 
 1. **Adaptive & Intelligent Control**  
-   - Systems that adjust behavior autonomously in real-time using adaptive or learning-based control.  
+   - Systems that adjust behavior autonomously in real-time using adaptive or learning-based control.   
 
-2. **Embedded Machine Learning / TinyML**  
-   - Deploying models in low-resource environments (edge devices, IoT, robots).  
-   - Techniques: quantization, pruning, knowledge distillation, lightweight architectures (MobileNet, SqueezeNet).  
-
-3. **Parameter-Efficient Fine-Tuning**  
+2. **Parameter-Efficient Fine-Tuning**  
    - Adapting large models to new tasks with minimal computation using LoRA, adapters, and prompt/prefix tuning.  
 
-4. **Efficiency under Constraints**  
+3. **Efficiency under Constraints**  
    - Optimizing compute, memory, energy, and latency for real-world autonomous systems.  
 
 
@@ -46,10 +39,8 @@ My research focuses on **behavioral adaptation and efficient computation under r
 ## 🛠 Tools & Skills
 These are the tools and frameworks I actively use to design, test, and deploy **efficient, adaptive autonomous systems**:
 
-- **Programming & Computation**: Python, C/C++ – for implementing adaptive control algorithms, AI models, and embedded systems.  
-- **Embedded & Edge Deployment**: TinyML frameworks, microcontroller programming – for deploying AI models under low-power and memory-constrained conditions.  
-- **Machine Learning & Model Efficiency**: PyTorch, TensorFlow – for building, fine-tuning, and compressing deep learning models (LoRA, adapters, pruning, quantization, knowledge distillation).  
-- **Simulation & Testing**: MATLAB/Simulink, Gazebo – for simulating control systems, autonomous behaviors, and system adaptation before real-world deployment.  
+- **Programming & Computation**: Python, C/C++ – for implementing adaptive control algorithms, AI models, and embedded systems.    
+- **Machine Learning & Model Efficiency**: PyTorch, TensorFlow – for building, fine-tuning, and compressing deep learning models (LoRA, adapters, pruning, quantization, knowledge distillation).    
 - **Experimentation & Reproducibility**: Git, Linux, Docker – for version control, development environments, and containerized experiments ensuring reproducibility.  
 
 ---
@@ -57,8 +48,7 @@ These are the tools and frameworks I actively use to design, test, and deploy **
 ## 📌 Notes
 This GitHub documents my learning, experimentation, and research-oriented projects.  
 Repositories include simulations, adaptive control experiments, embedded AI projects, and applied programming for autonomous systems.  
-
-My research interests and skills are **actively evolving** as I explore robotics, embedded AI, and adaptive autonomous systems. This space will grow with my work and experimentation.  
+My research interests and skills are **actively evolving** as I explore AI and adaptive autonomous systems. This space will grow with my work and experimentation.  
 
 ---
 
