@@ -3,7 +3,7 @@
 🎓 Mechatronics Engineering undergraduate | 🤖 Research in Intelligent Systems
 📍 Nigeria  
 
-I am a researcher focused on **intelligent autonomous systems under constraints, optimization and efficiency**. My work bridges **practical engineering** and **applied AI**, aiming to design systems that **adapt efficiently and robustly in complex, dynamic environments**.    
+I am a researcher focused on intelligent autonomous systems under constraints, optimization and efficiency. My work bridges practical engineering and applied AI, aiming to design systems that adapt efficiently and robustly in complex, dynamic environments.    
 ---
 
 ## 🧠 Research & Technical Interests
