@@ -5,7 +5,6 @@
 
 I am a researcher focused on intelligent autonomous systems under constraints, optimization and efficiency. My work bridges practical engineering and applied AI, aiming to design systems that adapt efficiently and robustly in complex, dynamic environments.    
 ---
-
 ## 🧠 Research & Technical Interests
 My research focuses on **behavioral adaptation and efficient computation under resource constraints**, aiming to maintain robustness, efficiency, and task specialization in low-power, low-memory, or latency-critical environments. Key areas include:  
 
